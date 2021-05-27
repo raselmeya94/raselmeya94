@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rasel Meya</h1>
 <h3 align="center">A passionate competitive programmer | Open Source Enthusiast</h3>
-<h3 align="center" >Dept of CSE, Noakhali Science and Technology University</h3>
+<h3 align="center" >Dept of CSTE, Noakhali Science and Technology University</h3>
 <h3 align="center" > Here is my profile link and summary of all competitive programming site.</h3>
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -34,10 +34,7 @@
 ||Total  |1098||
 
 <h2><img align="left" src="https://github-readme-stats.vercel.app/api?username=raselmeya94&show_icons=true&&theme=radical" alt="raselmeya94" /></h2>
+<br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raselmeya94&show_icons=true&locale=en&layout=compact" alt="raselmeya94" /></p><br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
