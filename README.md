@@ -33,10 +33,7 @@
 |12   | [cses](https://cses.fi/user/35833)| 03|
 ||Total  |1098||
 
-<h2><img align="left" src="https://github-readme-stats.vercel.app/api?username=raselmeya94&show_icons=true&&theme=radical" alt="raselmeya94" /></h2>
-<br>
-<br>
-<br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raselmeya94&show_icons=true&locale=en&layout=compact" alt="raselmeya94" /></p><br>
+<h2><img align="" src="https://github-readme-stats.vercel.app/api?username=raselmeya94&show_icons=true&&theme=radical" alt="raselmeya94" /></h2>
+
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=raselmeya94&show_icons=true&locale=en&layout=compact" alt="raselmeya94" /></p><br>
 
