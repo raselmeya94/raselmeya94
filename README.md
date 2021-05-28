@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rasel Meya</h1>
 <h3 align="center">A passionate competitive programmer | Open Source Enthusiast</h3>
-<h3 align="center" >Dept of CSTE, Noakhali Science and Technology University</h3>
+<h3 align="center" >Dept of CSTE, Noakhali Science and Technology University.</h3>
 <h3 align="center" > Here is my profile link and summary of all competitive programming site.</h3>
 <br>
 <h3 align="left">Connect with me:</h3>
