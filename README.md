@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rasel Meya</h1>
-<h3 align="center">A passionate competitive programmer | Open Source Enthusiast</h3>
+<h3 align="center">Passionate competitive programmer | Open Source Enthusiast</h3>
 <h3 align="center" >Dept of CSTE, Noakhali Science and Technology University.</h3>
 <h3 align="center" > Here is my profile link and summary of all competitive programming site.</h3>
 <br>
@@ -17,3 +17,6 @@
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=raselmeya94&show_icons=true&locale=en&layout=compact" alt="raselmeya94" /></p><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raselmeya94&" alt="rasel meya" /></p>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=raselmeya94&theme=dracula"/></p>
+<h3 align=" ">Currently Contributing:</h3>
+<a href="https://github.com/lightoj-dev/problem-tutorials" target="_blank"> <img src="https://static.lightoj.com/assets/loj-logo-inverted.png" alt="lightoj" width="60" height="30"/>
+
