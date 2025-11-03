@@ -1,7 +1,7 @@
 <div align="center">
  <img src="https://github.com/raselmeya94.png" alt="Rasel Meya GitHub Profile Picture" width="150" style="border-radius: 50%">
   
-  <h3>🚀 Data Scientist | Competitive Programmer | Technical Writer</h3>
+  <h3>🚀 AI Engineer | Competitive Programmer | Technical Writer</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/raselmeya)
   [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:raselmeya2194@gmail.com)
